@@ -1,0 +1,22 @@
+---
+layout: post
+title:  ""
+date: 2015-11-09 01:00:00
+last_modified_at:  2015-11-09 01:00:00
+excerpt: "There was a brawe girl...."
+categories: general
+tags:  rinwall
+image:
+  feature: rinwall_wide_logo.png
+  topPosition: 0px
+bgContrast: light
+bgGradientOpacity: light
+syntaxHighlighter: no
+---
+
+## Rinwall Oy
+
+Tiedot yrityksestä:
+
+  * Rinwall Oy (2714815-2) on perustettu lokakuussa 2015.
+  * Verkkolaskuosoitteemme on: 003727148152, BIC OKOYFIHH

@@ -1,0 +1,49 @@
+
+# Syntax highlighting
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+permalink:           /:title
+relative_permalinks: true
+
+# Setup
+timezone:            Helsinki/Cairo
+locale:              Finnish
+name:		     Rinwall Oy
+title:               Official Web Pages of Rinwall Oy 
+tagline:             'tagline'
+description:         'description'
+url:                 http://rinwall.com
+rss:                 rss feed url
+baseurl:             '/'
+baseurl_posts_img:   '/assets/images/posts/'
+baseurl_featured_img: '/assets/images/rinwall/'
+baseurl_featured_thumbnail: '/assets/images/thumbnail/'
+baseurl_javascripts: '/assets/javascripts/'
+icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
+disqus:              disqus_shortname # get it on https://disqus.com/admin/
+
+author:
+  name:              Tiina Rintamäki
+  url:               http://rinwall.com
+  facebook:          
+  twitter:           rinwall_oy
+  google_plus:       tiina.rintamaki@gmail.com
+  linkedin:          https://fi.linkedin.com/pub/tiina-rintamäki/13/969/598 
+
+fb_admins:           your facebook profile id
+fb_appid:            your facebook app id
+
+# Server
+destination:      	 ./_site
+exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
+port:             	 9001
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "default"
