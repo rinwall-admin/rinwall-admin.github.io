@@ -13,6 +13,10 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+## Joulun alla tapahtuu!  
+
+Terve tuloa http://www.ssypkehitys.fi/ajankohtaista/ict-tuotteita-biotalouden-tueksi-tyopaja-ke-91215-poke-tarvaala/
+
 ## Muutto Crazy Towniin... 1.11.2015 
 
 Nyt toimimme Jyväskylän Crazy Townissa! Tervetuloa
