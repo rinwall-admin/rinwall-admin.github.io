@@ -8,7 +8,7 @@ categories: general
 tags:  rinwall
 image:
   feature: rinwall_wide_logo.png
-  topPosition: 0px
+  topPosition: 50px
 bgContrast: light
 bgGradientOpacity: light
 syntaxHighlighter: no
