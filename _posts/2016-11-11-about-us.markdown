@@ -15,15 +15,6 @@ syntaxHighlighter: no
 ---
 ## Mikä on Rinwall Oy
 
-Olen Tiina Rintamäki, Rinwall Oy:n perustaja ja ympäristökonsultoinnin rautainen ammattilainen. Olen täydentänyt osaamistani tietojärjestelmien puolelle, joten uusien mahdollisuuksien soveltaminen on intohimoni. IT-ratkaisut käyttäjälähtöisesti tuo säästöä työajan käytössä. Asioiden perusteleminen taloudellisesti ja kustannustehokkuus tukee tarjoamiani palveluja ja ratkaisuja. 
-
-  * Tiina Rintamäki
-  * FM, KTM(yo)
-  * Puh. 0400 548 987
-  * Email: tiina.rintamaki@rinwall.com
-  * Osoite: Lutakonaukio 7, 40100 Jyväskylä
-  * [LinkedIn](https://fi.linkedin.com/in/tiina-rintamäki-59896913)
-  * [Twitter](https://twitter.com/rinwall_oy)
-
+Kuvaus työn alla...
 
 
