@@ -9,8 +9,8 @@ tags:  rinwall
 image:
   feature: latest-news.jpg
   topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: darker
+bgContrast: light
+bgGradientOpacity: light
 syntaxHighlighter: no
 ---
 ## Joulun alla tapahtuu!  
