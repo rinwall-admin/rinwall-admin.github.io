@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Palveluitamme"
-date:   2015-10-11 01:00:00
-last_modified_at:  2015-11-10 01:00:00
+date:   2016-08-31 18:00:00
+last_modified_at:  2016-08-31 18:00:00
 excerpt: "Rinwall Oy and offerings"
 categories: offering
 tags:  rinwall
